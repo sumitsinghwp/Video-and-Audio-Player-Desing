@@ -1,6 +1,6 @@
 # Video and Audio Player Desing #
 
-A basic plugin to load custom CSS and JS files in WordPress.
+A basic plugin to Video and Audio Player with custom desing in WordPress.
 
 ## Installation ##
 
