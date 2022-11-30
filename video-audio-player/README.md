@@ -1,4 +1,4 @@
-# My Custom Functionality #
+# Video and Audio Player Desing #
 
 A basic plugin to load custom CSS and JS files in WordPress.
 
